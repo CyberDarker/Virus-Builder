@@ -2,7 +2,7 @@
 This tool will generate a virus that can only destroy Windows computer. You can also configure to auto run in usb drive
 More scripts will be added with time
 
-![Tools ](image/Screenshot_20250225-074427_Termux.png)
+![My Project Logo](image/Screenshot_20250225-074427_Termux.png)
 
 # Telegram
 * Join Telegram Channel https://t.me/CyberPawan
