@@ -27,7 +27,7 @@ More scripts will be added with time
 *Once Virus is generated! exit the tool and type 'cp ifection.bat/sdcard' without quotes*
 
 # Screenshots
-![Screenshot 2025-02-08 234133](https://github.com/user-attachments/assets/939fb8e5-4609-4327-bf18-46eb79f179ba)
+![My Project Logo](/Image/Screenshot_20250225-081242_Termux.png)
 
 
 
